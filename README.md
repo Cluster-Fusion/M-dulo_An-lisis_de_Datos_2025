@@ -1,4 +1,4 @@
-# Módulo Análisis de Datos 2025.
+# Módulo Analista de Datos 2025.
 
 ## Materias que comprenden el módulo
 
