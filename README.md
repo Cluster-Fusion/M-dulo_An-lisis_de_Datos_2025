@@ -1,6 +1,11 @@
 # Módulo Análisis de Datos 2025.
 
-# Nombre del grupo: Cluster Fusión
+## Materias que comprenden el módulo
+
+- Procesamiento de Datos  
+- Estadística y Exploración de Datos 1
+
+## Nombre del grupo: Cluster Fusión
 
 ## Repositorio del grupo  
 [https://github.com/Cluster-Fusion](https://github.com/Cluster-Fusion)
