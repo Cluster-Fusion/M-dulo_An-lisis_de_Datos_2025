@@ -1,1 +1,19 @@
-# M-dulo_An-lisis_de_Datos_2025
+# Módulo Análisis de Datos 2025.
+
+# Nombre del grupo: Cluster Fusión
+
+## Repositorio del grupo  
+[https://github.com/Cluster-Fusion](https://github.com/Cluster-Fusion)
+
+## Integrantes
+
+| Nombre                            | Usuario de GitHub                                       |
+|-----------------------------------|----------------------------------------------------------|
+| Barbero, Maciel                   | [BarberoMaciel](https://github.com/BarberoMaciel)       |
+| Molina, Jonathan Ariel            | [Jonaarmol](https://github.com/Jonaarmol)               |
+| Molina, Mauricio Leonel           | [Mauri-Molina10](https://github.com/Mauri-Molina10)     |
+| Palomeque, Jonathan Manuel        | [manuelpalomeque](https://github.com/manuelpalomeque)   |
+| Robles, Emilce Lucia Nicole       | [emirobles](https://github.com/emirobles)               |
+| Sosa, Sebastian Cristhian         | [Cristhhh](https://github.com/Cristhhh)                 |
+| Virinni, Marco                    | [alanapolitana](https://github.com/alanapolitana)       |
+| Marini, Ian Denis                 | [IanMarini](https://github.com/IanMarini)               |
