@@ -5,6 +5,10 @@
 - Procesamiento de Datos  
 - Estadística y Exploración de Datos 1
 
+## Profesores:
+-  Nahuel PRATTA
+-  Marcos UGARTE
+
 ## Nombre del grupo: Cluster Fusión
 
 ## Repositorio del grupo  
